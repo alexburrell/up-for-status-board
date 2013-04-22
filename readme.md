@@ -1,6 +1,6 @@
 # Add a Jawbone UP panel to your Status Board
 
-This is just a quick script I put together to pull sleep and activity data from my Jawbone UP bracelet and display it as a panel on Panic's Status Board app.
+This is just a quick script I put together to pull sleep and activity data from my [Jawbone UP](https://jawbone.com/up) band and display it as a panel on [Panic's Status Board](http://www.panic.com/statusboard/) app.
 
 As is, with your user credentials, it can create a JSON object to get a line graph of your steps on Status Board, or a line graph of your sleep and deep sleep.
 
