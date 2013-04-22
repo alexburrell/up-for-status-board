@@ -1,0 +1,5 @@
+alex.py
+peter.py
+*.pyc
+.DS_Store
+data/
